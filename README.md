@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+
 # Hey 👋
 
 My name is Levi Silva, I'm from Brazil :brazil: I'm A Sotfware Engineer,   
