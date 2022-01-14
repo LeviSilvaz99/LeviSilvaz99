@@ -5,7 +5,7 @@
 My name is Levi Silva, I'm from Brazil :brazil: I'm A Sotfware Engineer,   
 I started in the job market in 2020.
 
-My favorite language is java but i went  fullstack with angular and react.
+My favorite language is java but i went become ios developer with swift.
 
 ### 🌍 "I'm a supporter of the heart of Ceará"
 
